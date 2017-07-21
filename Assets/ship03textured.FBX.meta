@@ -1,0 +1,157 @@
+fileFormatVersion: 2
+guid: c326045c015cc46519737a78118c2798
+timeCreated: 1489876093
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: body
+    100002: bottomFin
+    100004: bottomRocket
+    100006: bottomWingConnector
+    100008: leftBottomFin
+    100010: leftRocket
+    100012: leftTopWing
+    100014: leftWing
+    100016: leftWingConnector
+    100018: rightBottomFin
+    100020: rightRocket
+    100022: rightTopWing
+    100024: rightWing
+    100026: rightWingConnector
+    100028: //RootNode
+    100030: topLightLeft
+    100032: topLightRight
+    400000: body
+    400002: bottomFin
+    400004: bottomRocket
+    400006: bottomWingConnector
+    400008: leftBottomFin
+    400010: leftRocket
+    400012: leftTopWing
+    400014: leftWing
+    400016: leftWingConnector
+    400018: rightBottomFin
+    400020: rightRocket
+    400022: rightTopWing
+    400024: rightWing
+    400026: rightWingConnector
+    400028: //RootNode
+    400030: topLightLeft
+    400032: topLightRight
+    2300000: body
+    2300002: bottomFin
+    2300004: bottomRocket
+    2300006: bottomWingConnector
+    2300008: leftBottomFin
+    2300010: leftRocket
+    2300012: leftTopWing
+    2300014: leftWing
+    2300016: leftWingConnector
+    2300018: rightBottomFin
+    2300020: rightRocket
+    2300022: rightTopWing
+    2300024: rightWing
+    2300026: rightWingConnector
+    2300028: topLightLeft
+    2300030: topLightRight
+    3300000: body
+    3300002: bottomFin
+    3300004: bottomRocket
+    3300006: bottomWingConnector
+    3300008: leftBottomFin
+    3300010: leftRocket
+    3300012: leftTopWing
+    3300014: leftWing
+    3300016: leftWingConnector
+    3300018: rightBottomFin
+    3300020: rightRocket
+    3300022: rightTopWing
+    3300024: rightWing
+    3300026: rightWingConnector
+    3300028: topLightLeft
+    3300030: topLightRight
+    4300000: body
+    4300002: leftWingConnector
+    4300004: rightWing
+    4300006: rightRocket
+    4300008: topLightRight
+    4300010: rightTopWing
+    4300012: rightBottomFin
+    4300014: topLightLeft
+    4300016: bottomWingConnector
+    4300018: bottomRocket
+    4300020: bottomFin
+    4300022: leftWing
+    4300024: leftBottomFin
+    4300026: rightWingConnector
+    4300028: leftTopWing
+    4300030: leftRocket
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
