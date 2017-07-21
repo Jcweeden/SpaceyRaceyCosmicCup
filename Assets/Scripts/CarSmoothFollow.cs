@@ -1,7 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-
+//sourced from: https://github.com/Xackery/RaceX/blob/master/Assets/0%20Code/Monobehavior/CarSmoothFollow.cs
 public class CarSmoothFollow : MonoBehaviour {
 		public Transform target;
 		public float distance = 20.0f;
